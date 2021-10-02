@@ -1,0 +1,14 @@
+---
+- MYSTUDENT:
+
+- name: saad
+  phone: 7878778
+  addrs: hyderabad
+
+- name: raad
+  phone: 799999
+  addrs: hyderabad
+
+- name: faad
+  phone: 785555
+  addrs: hyderabad
